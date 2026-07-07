@@ -1,0 +1,77 @@
+# ================================================================
+# AegisSphere .gitignore
+# Keeps repository under 10MB hackathon submission limit
+# ================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables (secrets)
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (if frontend tooling added)
+node_modules/
+package-lock.json
+
+# ML Models (keep out of repo — use API-based inference)
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.joblib
+*.safetensors
+
+# Large data files (hosted in Cloudflare R2)
+*.csv
+*.parquet
+*.arrow
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,155 @@
+{
+  "seattle": {
+    "primary_accessible_route": {
+      "name": "Weller Street Bridge Route",
+      "description": "Level, step-free pathway from Sound Transit Stadium Station to Lumen Field via Weller Street Bridge. Avoids Pioneer Square steep grades.",
+      "is_step_free": true,
+      "distance_m": 650,
+      "estimated_minutes": 8,
+      "features": ["Tactile paving", "Wide pathway (3m+)", "Level surface", "Covered sections"],
+      "avoid": "Pioneer Square — steep grades and crowded walkways not suitable for wheelchair users"
+    },
+    "accessible_entrances": ["Gate A (level entry)", "Gate D (ramp access)", "ADA Entrance South (elevator)"],
+    "wheelchair_seating": ["Section 121-123", "Section 135-137", "Suite Level via elevator"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Section 122", "Section 136", "Suite Level"],
+    "assistive_listening": true,
+    "service_animal_relief": "South Plaza grass area"
+  },
+  "new_york_nj": {
+    "primary_accessible_route": {
+      "name": "NJ Transit Meadowlands Rail Accessible Route",
+      "description": "Accessible platform with gap ramps at Secaucus Junction. Covered walkway with tactile paving from rail platform to Gate A.",
+      "is_step_free": true,
+      "distance_m": 400,
+      "estimated_minutes": 5,
+      "features": ["Gap ramps", "Tactile paving", "Covered walkway", "Level surface"],
+      "avoid": "General parking lots — long walking distances on uneven surfaces"
+    },
+    "accessible_entrances": ["Gate A (level)", "Gate C (ramp)", "VIP Accessible Entrance"],
+    "wheelchair_seating": ["Section 100-Level all corners", "Suite Level"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Every 100-Level section", "Suite Level"],
+    "assistive_listening": true,
+    "service_animal_relief": "North Plaza designated area"
+  },
+  "dallas": {
+    "primary_accessible_route": {
+      "name": "DART Shuttle Accessible Route",
+      "description": "Wheelchair-accessible climate-controlled shuttle from CentrePort/DFW Station. Shaded pathway with hydration stations to Gate D.",
+      "is_step_free": true,
+      "distance_m": 300,
+      "estimated_minutes": 5,
+      "features": ["A/C shuttle", "Shade structures", "Hydration stations", "Non-slip ramp"],
+      "avoid": "Walking from general parking — extreme heat exposure risk"
+    },
+    "accessible_entrances": ["Gate D (ramp + shade)", "Gate G (elevator)", "VIP South (level)"],
+    "wheelchair_seating": ["Plaza Level sections", "Club Level via elevator"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Every concourse level", "Family restrooms available"],
+    "assistive_listening": true,
+    "service_animal_relief": "East Plaza shaded area"
+  },
+  "atlanta": {
+    "primary_accessible_route": {
+      "name": "MARTA Vine City Accessible Bridge",
+      "description": "Elevator access at Vine City Station. Level bridge with non-slip surface to Mercedes-Benz Stadium Gate 1.",
+      "is_step_free": true,
+      "distance_m": 550,
+      "estimated_minutes": 7,
+      "features": ["Elevator", "Level bridge", "Non-slip surface", "Handrails"],
+      "avoid": "Centennial Olympic Park route — uneven surfaces in park area"
+    },
+    "accessible_entrances": ["Gate 1 (level)", "Gate 4 (ramp)", "Gate 6 (elevator)"],
+    "wheelchair_seating": ["100-Level throughout", "200-Level via elevator", "Suite Level"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Every level, all quadrants"],
+    "assistive_listening": true,
+    "service_animal_relief": "Gate 6 exterior green space"
+  },
+  "vancouver": {
+    "primary_accessible_route": {
+      "name": "SkyTrain Stadium-Chinatown Accessible Route",
+      "description": "All SkyTrain stations have elevator access. Flat, wide pathway with tactile guiding strips from station to BC Place Gate A.",
+      "is_step_free": true,
+      "distance_m": 350,
+      "estimated_minutes": 5,
+      "features": ["Elevator at station", "Tactile strips", "Wide pathway", "Flat terrain"],
+      "avoid": "None — route is fully accessible"
+    },
+    "accessible_entrances": ["Gate A (level)", "Gate C (level)", "Gate F (ramp)"],
+    "wheelchair_seating": ["100-Level sections 201-215", "Club Level"],
+    "companion_seating": true,
+    "accessible_restrooms": ["All concourse levels"],
+    "assistive_listening": true,
+    "service_animal_relief": "Terry Fox Plaza designated area"
+  },
+  "mexico_city": {
+    "primary_accessible_route": {
+      "name": "FIFA Accessible Shuttle Route",
+      "description": "Wheelchair ramp-equipped shuttle from Tren Ligero stop to Estadio Azteca Gate B. Avoids uphill walk at 2,200m altitude.",
+      "is_step_free": true,
+      "distance_m": 200,
+      "estimated_minutes": 5,
+      "features": ["Wheelchair ramp shuttle", "Climate controlled", "Altitude-adapted"],
+      "avoid": "Walking uphill from Tren Ligero — shortness of breath risk at altitude"
+    },
+    "accessible_entrances": ["Gate B (ramp)", "Gate H (elevator)", "VIP Accessible"],
+    "wheelchair_seating": ["Lower bowl sections", "Box seats via elevator"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Lower concourse", "Upper concourse (elevator access)"],
+    "assistive_listening": true,
+    "service_animal_relief": "East courtyard area"
+  },
+  "toronto": {
+    "primary_accessible_route": {
+      "name": "TTC Streetcar Lakeside Accessible Route",
+      "description": "Low-floor streetcar with wheelchair ramp. Flat lakeside path to BMO Field entrance.",
+      "is_step_free": true,
+      "distance_m": 400,
+      "estimated_minutes": 5,
+      "features": ["Low-floor vehicle", "Wheelchair ramp", "Flat pathway", "Lakeside scenic"],
+      "avoid": "Liberty Village shortcut — stairs not accessible"
+    },
+    "accessible_entrances": ["Main Entrance (level)", "Gate 3 (ramp)"],
+    "wheelchair_seating": ["All stands have designated areas"],
+    "companion_seating": true,
+    "accessible_restrooms": ["West stand", "East stand"],
+    "assistive_listening": true,
+    "service_animal_relief": "Exhibition Place grounds"
+  },
+  "miami": {
+    "primary_accessible_route": {
+      "name": "FIFA Express Shuttle Accessible Route",
+      "description": "Climate-controlled accessible shuttle from Aventura Mall. Covered pathway to Gate G.",
+      "is_step_free": true,
+      "distance_m": 200,
+      "estimated_minutes": 3,
+      "features": ["Climate controlled", "Covered pathway", "Short distance"],
+      "avoid": "General parking — long exposed walks in tropical heat"
+    },
+    "accessible_entrances": ["Gate G (level, covered)", "Gate A (ramp)", "VIP West (elevator)"],
+    "wheelchair_seating": ["100-Level all sections", "Club Level"],
+    "companion_seating": true,
+    "accessible_restrooms": ["Every concourse section"],
+    "assistive_listening": true,
+    "service_animal_relief": "North garden area"
+  },
+  "boston": {
+    "primary_accessible_route": {
+      "name": "FIFA Shuttle from Foxborough Station",
+      "description": "Wheelchair-accessible shuttle from MBTA Commuter Rail Foxborough station to Gillette Stadium.",
+      "is_step_free": true,
+      "distance_m": 150,
+      "estimated_minutes": 5,
+      "features": ["Accessible shuttle", "Direct service", "Wheelchair ramp"],
+      "avoid": "Walking from Foxborough station — distance and terrain challenging"
+    },
+    "accessible_entrances": ["Gate B (ramp)", "Gate E (elevator)", "ADA Entrance North"],
+    "wheelchair_seating": ["100-Level designated areas", "Club Level via elevator"],
+    "companion_seating": true,
+    "accessible_restrooms": ["All concourse levels"],
+    "assistive_listening": true,
+    "service_animal_relief": "East parking area grass section"
+  }
+}

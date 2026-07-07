@@ -1,0 +1,123 @@
+{
+  "los_angeles": {
+    "city": "Los Angeles",
+    "venue_name": "SoFi Stadium",
+    "country": "United States",
+    "matches_allocated": "8 Matches",
+    "transit_vulnerabilities": "Heavy car dependency, extreme LAX airport congestion",
+    "climate_risks": "Extreme heat, coastal wildfire smoke",
+    "security_designation": "NSSE",
+    "security_funding": "Peak federal funding share",
+    "key_operational_priority": "Intercepting airport-to-stadium rideshare bottlenecks"
+  },
+  "dallas": {
+    "city": "Dallas",
+    "venue_name": "AT&T Stadium",
+    "country": "United States",
+    "matches_allocated": "Round of 32 & 16",
+    "transit_vulnerabilities": "Highly limited public transit infrastructure",
+    "climate_risks": "Humid heat waves (exceeding 100°F), severe thunderstorms",
+    "security_designation": "NSSE",
+    "security_funding": "$51.6M federal funding share",
+    "key_operational_priority": "Managing high-heat park-and-ride shuttle operations"
+  },
+  "houston": {
+    "city": "Houston",
+    "venue_name": "NRG Stadium",
+    "country": "United States",
+    "matches_allocated": "Round of 16",
+    "transit_vulnerabilities": "Car-dependent metro layout",
+    "climate_risks": "Severe heat index, gulf hurricane threats",
+    "security_designation": "NSSE",
+    "security_funding": "Federal security funding",
+    "key_operational_priority": "Climate-adaptive HVAC grid stabilization"
+  },
+  "miami": {
+    "city": "Miami",
+    "venue_name": "Hard Rock Stadium",
+    "country": "United States",
+    "matches_allocated": "Round of 32",
+    "transit_vulnerabilities": "Extreme airport surge, lack of light rail",
+    "climate_risks": "Tropical storms, coastal flooding, heat index illness",
+    "security_designation": "NSSE",
+    "security_funding": "Federal security funding",
+    "key_operational_priority": "Evacuation routing under flash flood warnings"
+  },
+  "seattle": {
+    "city": "Seattle",
+    "venue_name": "Lumen Field",
+    "country": "United States",
+    "matches_allocated": "6 Matches",
+    "transit_vulnerabilities": "Concourse pinch points, localized rail delays",
+    "climate_risks": "Sudden summer downpours",
+    "security_designation": "NSSE",
+    "security_funding": "Federal security funding",
+    "key_operational_priority": "Level step-free routing for reduced-mobility fans"
+  },
+  "new_york_nj": {
+    "city": "New York/NJ",
+    "venue_name": "MetLife Stadium",
+    "country": "United States",
+    "matches_allocated": "Round of 16, Final Match",
+    "transit_vulnerabilities": "Complex multi-state rail transfers",
+    "climate_risks": "Intense summer heat waves",
+    "security_designation": "NSSE",
+    "security_funding": "$66.2M federal funding share",
+    "key_operational_priority": "Cross-jurisdictional transit capacity scaling"
+  },
+  "atlanta": {
+    "city": "Atlanta",
+    "venue_name": "Mercedes-Benz Stadium",
+    "country": "United States",
+    "matches_allocated": "8 Matches",
+    "transit_vulnerabilities": "Heavy central hub rail congestion",
+    "climate_risks": "High humidity index, severe thunderstorms",
+    "security_designation": "NSSE",
+    "security_funding": "$73.4M federal funding share",
+    "key_operational_priority": "Mass transit gate capacity distribution"
+  },
+  "boston": {
+    "city": "Boston",
+    "venue_name": "Gillette Stadium",
+    "country": "United States",
+    "matches_allocated": "Quarter-finals",
+    "transit_vulnerabilities": "Single-track commuter rail limitations",
+    "climate_risks": "Coastal storms",
+    "security_designation": "NSSE",
+    "security_funding": "Federal security funding",
+    "key_operational_priority": "Post-match commuter train embarkation scheduling"
+  },
+  "vancouver": {
+    "city": "Vancouver",
+    "venue_name": "BC Place",
+    "country": "Canada",
+    "matches_allocated": "7 Matches",
+    "transit_vulnerabilities": "Localized light rail platform constraints",
+    "climate_risks": "Wildfire smoke air quality degradation",
+    "security_designation": "Canadian Federal Security",
+    "security_funding": "$125M dedicated Canadian security funding",
+    "key_operational_priority": "Coordinating automated transit updates with late matches"
+  },
+  "toronto": {
+    "city": "Toronto",
+    "venue_name": "BMO Field",
+    "country": "Canada",
+    "matches_allocated": "6 Matches",
+    "transit_vulnerabilities": "Lakeside streetcar congestion",
+    "climate_risks": "Severe humidity",
+    "security_designation": "Canadian Federal Security",
+    "security_funding": "$90M dedicated Canadian security funding",
+    "key_operational_priority": "Pedestrian diversion around transit access points"
+  },
+  "mexico_city": {
+    "city": "Mexico City",
+    "venue_name": "Estadio Azteca",
+    "country": "Mexico",
+    "matches_allocated": "5 Matches, Opening Game",
+    "transit_vulnerabilities": "High-altitude urban transport bottlenecks",
+    "climate_risks": "High-altitude air thinning, summer rain",
+    "security_designation": "Mexican Federal Security",
+    "security_funding": "Federal Mexican Security Directives",
+    "key_operational_priority": "Managing high-altitude heat stress and fan zones"
+  }
+}

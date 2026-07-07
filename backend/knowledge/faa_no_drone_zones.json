@@ -1,0 +1,123 @@
+{
+  "los_angeles": {
+    "venue": "SoFi Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of SoFi Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 33.9535,
+    "center_lon": -118.3392,
+    "altitude_limit_ft": 0,
+    "enforcement": "Federal Aviation Administration (FAA) + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "dallas": {
+    "venue": "AT&T Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of AT&T Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 32.7473,
+    "center_lon": -97.0945,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "houston": {
+    "venue": "NRG Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of NRG Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 29.6847,
+    "center_lon": -95.4107,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "miami": {
+    "venue": "Hard Rock Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Hard Rock Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 25.9580,
+    "center_lon": -80.2389,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "seattle": {
+    "venue": "Lumen Field",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Lumen Field during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 47.5952,
+    "center_lon": -122.3316,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "new_york_nj": {
+    "venue": "MetLife Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of MetLife Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 40.8128,
+    "center_lon": -74.0742,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service + Port Authority Police",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "atlanta": {
+    "venue": "Mercedes-Benz Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Mercedes-Benz Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 33.7553,
+    "center_lon": -84.4006,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "boston": {
+    "venue": "Gillette Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Gillette Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 42.0909,
+    "center_lon": -71.2643,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "philadelphia": {
+    "venue": "Lincoln Financial Field",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Lincoln Financial Field during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 39.9008,
+    "center_lon": -75.1675,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "kansas_city": {
+    "venue": "Arrowhead Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Arrowhead Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 39.0489,
+    "center_lon": -94.4839,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  },
+  "san_francisco": {
+    "venue": "Levi's Stadium",
+    "restriction": "NSSE TFR — No UAS/drone operations within 5.6km (3 nautical miles) of Levi's Stadium during match-day windows",
+    "radius_nm": 3,
+    "radius_km": 5.6,
+    "center_lat": 37.4033,
+    "center_lon": -121.9694,
+    "altitude_limit_ft": 0,
+    "enforcement": "FAA + Secret Service",
+    "penalties": "Criminal prosecution under 18 U.S.C. § 32, civil fines up to $250,000"
+  }
+}

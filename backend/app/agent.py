@@ -96,7 +96,7 @@ try:
 
     aegis_agent = Agent(
         "google-gla:gemini-2.0-flash",
-        result_type=OperationalResponse,
+        output_type=OperationalResponse,
         system_prompt=SYSTEM_PROMPT,
     )
 

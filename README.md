@@ -71,8 +71,6 @@ cd backend
 python -m uvicorn app.main:app --reload --port 8000
 ```
 
-The API documentation is available at: [http://localhost:8000/docs](http://localhost:8000/docs)
-
 ### Run the Frontend
 
 Open `frontend/index.html` in your browser. The dashboard connects to the backend at `localhost:8000`.

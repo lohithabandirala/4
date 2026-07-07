@@ -1,1 +1,6 @@
--r backend/requirements.txt
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-ai>=0.0.10
+httpx>=0.25.0
+python-dotenv>=1.0.0

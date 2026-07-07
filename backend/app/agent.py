@@ -95,7 +95,7 @@ try:
     from pydantic_ai import Agent
 
     aegis_agent = Agent(
-        "google-gla:gemini-2.0-flash",
+        "google:gemini-2.0-flash",
         output_type=OperationalResponse,
         system_prompt=SYSTEM_PROMPT,
     )
